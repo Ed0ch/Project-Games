@@ -15,8 +15,8 @@ Evaluación del impacto de las calificaciones de la ESRB.
 Comparación de las puntuaciones de usuarios y críticos.
 Identificación de plataformas y géneros más populares.
 
-============================
-Analysis of regional sales.
+============================ 
+
 Assessment of the impact of ESRB ratings.
 Comparison of user and critic scores.
 Identification of the most popular platforms and genres.
